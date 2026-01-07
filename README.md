@@ -1,8 +1,8 @@
-####RECIPE PAGE 👨‍🍳
+#### RECIPE PAGE 👨‍🍳
 
-This is a one-page recipe book that can be accessed from the link here without any downloading required.
+This is a one-page recipe book that can be accessed from the link [here](https://sorestar.github.io/FrontendMentor-RecipePage/) without any downloading required.
 
-###Technologies Used
+#### Technologies Used 📌
 
 <ul><li>HTML</li><li>CSS</li></ul><ul>
   
