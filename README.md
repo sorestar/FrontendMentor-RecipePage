@@ -5,8 +5,8 @@ This is a one-page recipe book that can be accessed from the link [here](https:/
 #### Technologies Used 📌
 
 <ul><li>HTML</li><li>CSS</li></ul>
-\n\n
-
+<br />
+<br />
 ｡･:*:･ﾟ★,｡･:*:･ﾟ☆　
 
 I created this when I was new to html and css, so everything I made was done by eyeballing the pixels😳
