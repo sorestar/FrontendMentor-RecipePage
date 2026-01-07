@@ -4,7 +4,7 @@ This is a one-page recipe book that can be accessed from the link [here](https:/
 
 #### Technologies Used 📌
 
-<ul><li>HTML</li><li>CSS</li></ul><ul>
+<ul><li>HTML</li><li>CSS</li></ul>
   
 ｡･:*:･ﾟ★,｡･:*:･ﾟ☆　
 
